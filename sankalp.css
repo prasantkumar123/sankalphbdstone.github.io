@@ -1,0 +1,141 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:pink;
+}
+.first{
+ width:360px;
+ height:200px; 
+ background-size:cover;
+ background-position:center; 
+ background-image:url("https://i2.wp.com/files.123freevectors.com/wp-content/original/109789-pink-heart.jpg?w=800&q=95");
+ background-attachment: fixed;
+ }
+.second{
+ width:100%;
+ height:100vh; 
+ background-size:cover;
+ background-position:center; 
+ background-image: url("https://www.99images.com/photos/love/love/love-shapeandroid-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-fkqbl.jpg?v=1578351963"), url("https://i.gifer.com/2yqT.gif");
+ background-attachment: fixed;
+ 
+}
+.img1{
+    height:250px;
+    width:250px;
+    border-radius:100%;
+    position:relative ;
+    top:65px;
+    right:-110px;
+    background-color:#ffffff00;
+    -webkit-box-shadow: 4px -4px 15px 0px #FF1F1F, 12px -11px 7px 0px #FF9376, 20px -5px 7px 0px #FFE264, 20px 6px 7px 0px #F6FF33, 13px 12px 17px 0px #FF9527, 2px 17px 17px 0px #FF0000, -9px 21px 18px 0px #FFF212, -9px 6px 11px 0px #FF0808, -11px -9px 11px 0px #FFFA17, -11px -9px 11px 0px #FFFA17, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 4px -4px 15px 0px #FF1F1F, 12px -11px 7px 0px #FF9376, 20px -5px 7px 0px #FFE264, 20px 6px 7px 0px #F6FF33, 13px 12px 17px 0px #FF9527, 2px 17px 17px 0px #FF0000, -9px 21px 18px 0px #FFF212, -9px 6px 11px 0px #FF0808, -11px -9px 11px 0px #FFFA17, -11px -9px 11px 0px #FFFA17, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.second1{
+    border:none;
+     -webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+    position:relative ;
+    top:80px;
+    color:white;
+   background: linear-gradient(90deg, 
+     rgba(5, 255, 5, 0) 0%, 
+     rgba(5, 255, 5, 0.2) 25%, 
+     rgba(5, 255, 5, 0.2) 75%, 
+     rgba(5, 255, 5, 0) 100%); 
+   border-radius:10px;
+   width:300px;
+}
+.second2{
+    border:none;
+     -webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+    position:relative ;
+    top:90px;
+    color:white;
+   background: linear-gradient(90deg, 
+     rgba(5, 255, 5, 0) 0%, 
+     rgba(5, 255, 5, 0.2) 25%, 
+     rgba(5, 255, 5, 0.2) 75%, 
+     rgba(5, 255, 5, 0) 100%); 
+   border-radius:10px;
+   width:300px;
+   float:right ;
+}
+.second3{
+    border:none;
+     -webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+    position:relative ;
+    top:130px;
+    color:white;
+   background: linear-gradient(90deg, 
+     rgba(5, 255, 5, 0) 0%, 
+     rgba(5, 255, 5, 0.2) 25%, 
+     rgba(5, 255, 5, 0.2) 75%, 
+     rgba(5, 255, 5, 0) 100%); 
+   border-radius:10px;
+   width:300px;
+   float:left ;
+}
+hr{
+    height:5px;
+    background-color:#51ff0d;
+}
+.name{
+    width:70px;
+    background: linear-gradient(90deg, 
+     rgba(255, 255, 255, 0) 0%, 
+     rgba(255, 255, 255, 0.2) 25%, 
+     rgba(255, 255, 255, 0.2) 75%, 
+     rgba(255, 255, 255, 0) 100%); 
+    position:sticky;
+    top:10px;
+    right:0;
+    font-family: 'Berkshire Swash', cursive;
+color:blue;
+}
+p{
+    margin:1px;
+    padding-right:3px;
+    padding-left:3px;
+}
+
+.birth{
+    font-size:40px;
+    position:relative ;
+    top:0px;
+    background:
+radial-gradient(hsl(0, 100%, 27%) 4%, hsl(0, 100%, 18%) 9%, hsla(0, 100%, 20%, 0) 9%) 0 0,
+radial-gradient(hsl(0, 100%, 27%) 4%, hsl(0, 100%, 18%) 8%, hsla(0, 100%, 20%, 0) 10%) 50px 50px,
+radial-gradient(hsla(0, 100%, 30%, 0.8) 20%, hsla(0, 100%, 20%, 0)) 50px 0,
+radial-gradient(hsla(0, 100%, 30%, 0.8) 20%, hsla(0, 100%, 20%, 0)) 0 50px,
+radial-gradient(hsla(0, 100%, 20%, 1) 35%, hsla(0, 100%, 20%, 0) 60%) 50px 0,
+radial-gradient(hsla(0, 100%, 20%, 1) 35%, hsla(0, 100%, 20%, 0) 60%) 100px 50px,
+radial-gradient(hsla(0, 100%, 15%, 0.7), hsla(0, 100%, 20%, 0)) 0 0,
+radial-gradient(hsla(0, 100%, 15%, 0.7), hsla(0, 100%, 20%, 0)) 50px 50px,
+linear-gradient(45deg, hsla(0, 100%, 20%, 0) 49%, hsla(0, 100%, 0%, 1) 50%, hsla(0, 100%, 20%, 0) 70%) 0 0,
+linear-gradient(-45deg, hsla(0, 100%, 20%, 0) 49%, hsla(0, 100%, 0%, 1) 50%, hsla(0, 100%, 20%, 0) 70%) 0 0;
+background-color: #300;
+background-size: 100px 100px;
+box-shadow:0 0 39px 20px #51ff0d;
+border-radius:60px;
+text-align:center;
+color:white;
+    
+}
+h1{
+font-family: 'Berkshire Swash', cursive;
+color:#51ff0d;
+text-align:center;
+}
+p{
+font-family: 'Merienda', cursive;
+}
+.img3{
+position: relative;
+top:100px;
+right:-50px;
+}
